@@ -1,5 +1,6 @@
 # test-style-transfer
 
+Inspired by [Anish's code](https://github.com/anishathalye/neural-style),
 I stricly followed [the CVPR paper by Gatys, Ecker and Bethge](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf), implemented the algorithm using tensorflow and VGG19, with the following parameter settings : 
 
 ```
